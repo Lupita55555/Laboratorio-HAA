@@ -1,0 +1,200 @@
+01 200 0.031852 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+02 200 0.947503 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+03 200 0.003011 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+04 200 0.024672 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+05 200 0.003931 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+06 200 0.003099 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+07 200 0.025467 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+08 200 0.002298 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+09 200 0.923552 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+10 200 0.004713 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+11 200 1.218107 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+12 200 0.222515 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+13 200 0.451095 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+14 200 0.030777 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+15 200 0.237401 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+16 200 0.271823 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+17 200 0.080962 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+18 200 0.191543 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+19 200 0.324611 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+20 200 0.104359 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+21 200 0.218971 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+22 200 0.153300 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+23 200 0.486282 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+24 200 0.142158 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+25 200 0.072022 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+26 200 0.096208 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+27 200 0.345816 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+28 200 0.186874 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+29 200 0.382911 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+30 200 0.280005 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+31 200 0.150687 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+32 200 0.616339 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+33 200 0.146447 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+34 200 0.239438 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+35 200 0.549560 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+36 200 0.702126 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+37 200 0.238562 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+38 200 0.374270 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+39 200 0.358668 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+40 200 0.349340 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+41 200 0.341091 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+42 200 0.485294 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+43 200 1.100319 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+44 200 0.010281 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+45 200 0.002394 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+46 200 0.003946 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+47 200 1.232371 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+48 200 0.018948 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+49 200 0.005096 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+50 200 1.393618 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+51 200 0.007269 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+52 200 0.481092 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+53 200 0.371411 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+54 200 0.647865 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+55 200 0.354233 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+56 200 0.206540 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+57 200 0.339821 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+58 200 0.483897 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+59 200 0.426294 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+60 200 0.299364 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+61 200 0.198548 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+62 200 0.376622 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+63 200 0.270455 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+64 200 0.992079 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+65 200 0.007692 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+66 200 0.025175 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+67 200 0.934196 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+68 200 0.002124 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+69 200 0.365937 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+70 200 0.596064 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+71 200 0.297700 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+72 200 0.218295 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+73 200 0.567833 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+74 200 0.512006 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+75 200 0.063113 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+76 200 0.665172 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+77 200 0.004958 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+78 200 0.161091 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+79 200 0.542930 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+80 200 0.604968 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+81 200 1.375718 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+82 200 1.106861 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+83 200 1.255332 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+84 200 0.175008 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+85 200 0.239119 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+86 200 0.131382 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+87 200 0.285401 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+88 200 0.288343 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+89 200 0.079174 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+90 200 0.039428 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+91 200 0.202197 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+92 200 0.327220 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+93 200 0.072683 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+94 200 0.313644 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+95 200 0.543907 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+96 200 0.159573 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+97 200 0.367303 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+98 200 0.507266 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+99 200 0.376302 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+100 200 0.023308 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+101 200 0.530136 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+102 200 0.113808 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+103 200 0.380056 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+104 200 0.476134 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+105 200 0.294119 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+106 200 0.308427 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+107 200 0.523908 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+108 200 0.002588 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+109 200 0.325064 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+110 200 0.221857 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+111 200 0.229225 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+112 200 0.123390 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+113 200 0.588115 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+114 200 0.509166 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+115 200 0.346676 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+116 200 1.107865 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+117 200 1.247290 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+118 200 0.025644 {"status":"SUCCESS","data":["Product A","Product B","Product C"]}
+119 200 1.100162 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+120 200 0.208408 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+121 200 0.021039 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+122 200 0.222097 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+123 200 0.577947 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+124 200 0.470187 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+125 200 0.212358 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+126 200 0.320738 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+127 200 0.563966 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+128 200 0.460142 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+129 200 0.269252 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+130 200 0.100618 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+131 200 0.385651 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+132 200 0.374374 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+133 200 0.268194 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+134 200 0.505454 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+135 200 0.289658 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+136 200 0.444467 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+137 200 0.008700 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+138 200 0.268934 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+139 200 0.478881 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+140 200 0.539549 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+141 200 0.336448 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+142 200 0.288344 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+143 200 0.315539 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+144 200 0.125355 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+145 200 0.412821 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+146 200 0.269836 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+147 200 0.182381 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+148 200 0.228982 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+149 200 0.139459 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+150 200 0.100140 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+151 200 0.261941 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+152 200 0.203233 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+153 200 0.228750 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+154 200 0.660806 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+155 200 0.002809 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+156 200 0.569997 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+157 200 0.420744 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+158 200 0.539326 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+159 200 0.137115 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+160 200 0.390336 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+161 200 0.270650 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+162 200 0.394639 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+163 200 0.027510 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+164 200 0.192816 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+165 200 0.543196 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+166 200 0.036857 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+167 200 0.430214 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+168 200 0.673784 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+169 200 0.235394 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+170 200 0.393198 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+171 200 0.223187 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+172 200 0.343859 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+173 200 0.152527 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+174 200 0.213548 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+175 200 0.528510 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+176 200 0.082137 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+177 200 0.390735 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+178 200 0.036034 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+179 200 0.234240 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+180 200 0.537694 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+181 200 0.279152 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+182 200 0.154172 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+183 200 0.590141 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+184 200 0.619877 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+185 200 0.118099 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+186 200 0.458346 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+187 200 0.289080 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+188 200 0.390505 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+189 200 0.476902 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+190 200 0.205563 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+191 200 0.337530 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+192 200 0.024302 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+193 200 0.260708 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+194 200 0.290501 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+195 200 0.245754 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+196 200 0.174058 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+197 200 0.340859 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+198 200 0.111745 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+199 200 0.289811 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
+200 200 0.334063 {"status":"DEGRADED_CACHE","data":["Cached Product A","Cached Product B"]}
